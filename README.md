@@ -10,3 +10,6 @@
 # Support Authenticating Requests (AWS Signature Version 4)
 please reference:
 https://docs.aws.amazon.com/AmazonS3/latest/API/sig-v4-authenticating-requests.html
+
+![image]signing-overview.png
+
