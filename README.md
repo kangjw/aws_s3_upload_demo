@@ -1,5 +1,5 @@
 # aws_s3_upload_demo
-## features
+## Features
 1. Support AWS Signature Version 4
 2. Openssl and curl used to upload file.
 3. No depend the AWS SDK.
