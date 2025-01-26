@@ -11,5 +11,5 @@
 please reference:
 https://docs.aws.amazon.com/AmazonS3/latest/API/sig-v4-authenticating-requests.html
 
-![image]signing-overview.png
+![image](signing-overview.png)
 
